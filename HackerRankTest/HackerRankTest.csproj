@@ -30,6 +30,10 @@
       <Content Include="HourGlassSum\HourGlassSumInput1.txt">
         <CopyToOutputDirectory>Always</CopyToOutputDirectory>
       </Content>
+      <None Remove="ArrayLeftRotation\input.txt" />
+      <Content Include="ArrayLeftRotation\input.txt">
+        <CopyToOutputDirectory>Always</CopyToOutputDirectory>
+      </Content>
     </ItemGroup>
 
 </Project>
